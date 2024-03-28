@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: white;
+  }
+  
+  body {
+    position: absolute;
+    width: 99vw;
+    height: 99vh;
+    left: 0;
+    top: 0;
+    background-color: #141414;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 4rem;
+  }
+  
+  a {
+    color: cyan;
+  }
+  
+  #toggle {
+      color: black;
+      cursor: pointer;
+      font-size: 1.5rem;
+      border: 0.2rem solid black;
+      border-radius: 0.5rem;
+  }
+  
+  p:last-of-type {
+      margin-bottom: 4rem;
+  }
+  
